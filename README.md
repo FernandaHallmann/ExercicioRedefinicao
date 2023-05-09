@@ -1,3 +1,3 @@
 # ExercicioRedefinicao
 
-> Exercício de redefinição de métodos - 09/05/23
+> Exercício de redefinição de métodos - Programação Orientada à objetos - 09/05/23
